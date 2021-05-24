@@ -1,62 +1,79 @@
-[
-  {
-    "name": "Nick",
-    "age": 35,
-    "weight": 79,
-    "sex": "male",
-    "specialskill": "Speech",
-    "inventory": ["AK-47", "health kit"],
-    "description": "Nick's sarcasm, pessimism, and self-centered cynicism arguably make him the most antagonistic character, or anti-hero, in the series.",
-    "phrase": "Name's Nick. But don't worry about learning it, 'cause I ain't sticking around long.",
-    "picture": "https://static.wikia.nocookie.net/left4dead/images/e/e7/Left_4_dead_2_conceptart_bUxvq.png/revision/latest?cb=20100718095617",
-    "status": "healthy"
-  },
-  {
-    "name": "Rochelle",
-    "age": 29,
-    "weight": 55,
-    "sex": "female",
-    "specialskill": "Leadership",
-    "inventory": ["MP5", "Pipe bomb"],
-    "description": "Rochelle plays the role of the 'big sister' of the group, and almost everyone treats her with generous respect.",
-    "phrase": "My name's Rochelle. I produce a news show.",
-    "picture": "https://static.wikia.nocookie.net/left4dead/images/1/1c/Left_4_dead_2_conceptart_EIZhJ_thumb.png/revision/latest?cb=20100718102652",
-    "status": "healthy"
-  },
-  {
-    "name": "Coach",
-    "age": 44,
-    "weight": 127,
-    "sex": "male",
-    "specialskill": "Strengh",
-    "inventory": ["Shotgun", "Defibrillator"],
-    "description": "Coach is the eldest, voice of reason, and authority of the Left 4 Dead 2 team, playing a similar role to Bill in Left 4 Dead.",
-    "phrase": "I ain't gonna die waitin' on salvation. As long as we still got guns, we gonna fight.",
-    "picture": "https://static.wikia.nocookie.net/left4dead/images/9/91/Left_4_dead_2_conceptart_Zo8rM_thumb.png/revision/latest?cb=20100718103226",
-    "status": "sick"
-  },
-  {
-    "name": "Ellis",
-    "age": 23,
-    "weight": 70,
-    "sex": "male",
-    "specialskill": "Agility",
-    "inventory": ["Shotgun", "Pain pills"],
-    "description": "Ellis' irrepressible optimism leads to some mixed relationships with the other team members, who cannot figure out whether Ellis is genuinely oblivious to the danger they face or has a highly resilient, strong-willed personality which he chooses to mask behind a lighthearted surface persona.",
-    "phrase": "Kill all sons of bitches. That's my official instructions.",
-    "picture": "https://static.wikia.nocookie.net/left4dead/images/d/db/Left_4_dead_2_conceptart_GodJy_thumb.png/revision/latest?cb=20100718102243",
-    "status": "infected"
-  },
-  {
-    "name": "Zoey",
-    "age": 21,
-    "weight": 52,
-    "sex": "female",
-    "specialskill": "Night vision",
-    "inventory": ["Machine Gun", "Molotov"],
-    "description": "Zoey was once a student at Aldrich in Philadelphia under a scholarship to become a filmmaker but instead of attending classes, she spent her time watching horror films and justified this to her upset mother as doing some 'research'.",
-    "phrase": "Funny, sexy, brunette zombie killer wanted to lead three helpless men to safety.",
-    "picture": "https://pm1.narvii.com/6337/6a176175e7e365e2b2de8b439a7705df887b9f11_hq.jpg",
-    "status": "infected"
-  }
-]
+{
+  "survivors": [
+    {
+      "name": "Nick",
+      "age": 35,
+      "weight": 79,
+      "sex": "male",
+      "specialskill": "Speech",
+      "inventory": [
+        "AK-47",
+        "health kit"
+      ],
+      "description": "Nick's sarcasm, pessimism, and self-centered cynicism arguably make him the most antagonistic character, or anti-hero, in the series.",
+      "phrase": "Name's Nick. But don't worry about learning it, 'cause I ain't sticking around long.",
+      "picture": "https://static.wikia.nocookie.net/left4dead/images/e/e7/Left_4_dead_2_conceptart_bUxvq.png/revision/latest?cb=20100718095617",
+      "status": "healthy"
+    },
+    {
+      "name": "Rochelle",
+      "age": 29,
+      "weight": 55,
+      "sex": "female",
+      "specialskill": "Leadership",
+      "inventory": [
+        "MP5",
+        "Pipe bomb"
+      ],
+      "description": "Rochelle plays the role of the 'big sister' of the group, and almost everyone treats her with generous respect.",
+      "phrase": "My name's Rochelle. I produce a news show.",
+      "picture": "https://static.wikia.nocookie.net/left4dead/images/1/1c/Left_4_dead_2_conceptart_EIZhJ_thumb.png/revision/latest?cb=20100718102652",
+      "status": "healthy"
+    },
+    {
+      "name": "Coach",
+      "age": 44,
+      "weight": 127,
+      "sex": "male",
+      "specialskill": "Strengh",
+      "inventory": [
+        "Shotgun",
+        "Defibrillator"
+      ],
+      "description": "Coach is the eldest, voice of reason, and authority of the Left 4 Dead 2 team, playing a similar role to Bill in Left 4 Dead.",
+      "phrase": "I ain't gonna die waitin' on salvation. As long as we still got guns, we gonna fight.",
+      "picture": "https://static.wikia.nocookie.net/left4dead/images/9/91/Left_4_dead_2_conceptart_Zo8rM_thumb.png/revision/latest?cb=20100718103226",
+      "status": "sick"
+    },
+    {
+      "name": "Ellis",
+      "age": 23,
+      "weight": 70,
+      "sex": "male",
+      "specialskill": "Agility",
+      "inventory": [
+        "Shotgun",
+        "Pain pills"
+      ],
+      "description": "Ellis' irrepressible optimism leads to some mixed relationships with the other team members, who cannot figure out whether Ellis is genuinely oblivious to the danger they face or has a highly resilient, strong-willed personality which he chooses to mask behind a lighthearted surface persona.",
+      "phrase": "Kill all sons of bitches. That's my official instructions.",
+      "picture": "https://static.wikia.nocookie.net/left4dead/images/d/db/Left_4_dead_2_conceptart_GodJy_thumb.png/revision/latest?cb=20100718102243",
+      "status": "infected"
+    },
+    {
+      "name": "Zoey",
+      "age": 21,
+      "weight": 52,
+      "sex": "female",
+      "specialskill": "Night vision",
+      "inventory": [
+        "Machine Gun",
+        "Molotov"
+      ],
+      "description": "Zoey was once a student at Aldrich in Philadelphia under a scholarship to become a filmmaker but instead of attending classes, she spent her time watching horror films and justified this to her upset mother as doing some 'research'.",
+      "phrase": "Funny, sexy, brunette zombie killer wanted to lead three helpless men to safety.",
+      "picture": "https://pm1.narvii.com/6337/6a176175e7e365e2b2de8b439a7705df887b9f11_hq.jpg",
+      "status": "infected"
+    }
+  ]
+}
